@@ -1,9 +1,6 @@
 # RISCV_Three_Stage
 RISC-V 3 stage in-order pipeline in verilog
 
-This is a simple RISC-V 3-stage pipeline processor buid using RV32I instruction set. Currently the core is not available for production purposes.
-This Project has been done under the mentorship of Prof. Joycee Mekie @ IIT Gandhinagar and student mentor Jitesh Sah.  
-
 ## Features
 
 1. Three-stage inorder pipeline processor
